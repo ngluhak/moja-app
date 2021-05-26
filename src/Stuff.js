@@ -6,11 +6,6 @@ import { GoHeart, GoArrowRight, GoTrashcan } from "react-icons/go";
 
 
 
-
-
-
-
-
 class Stuff extends Component {
   render() {
     return (
